@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi there, I am Francisco Prada👋</h1>
+
+- 🔭 I’m currently studying on <a href="https://sigarra.up.pt/feup/pt/web_page.inicial" target="_blank">FEUP</a>
+- 🌱 I’m currently attending the Informatics and Computing Engineering course
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/francisco-prada-566990222/" target="_blank">Francisco Prada</a>
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i love watching anime and reading manga :) 
+
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CiscoPr&show_icons=true" alt="CiscoPr">
+</p>
