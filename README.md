@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there, I am Francisco Prada👋</h1>
+### Hi there, I am Francisco Prada👋 ###
 - 🔭 I’m currently studying on <a href="https://sigarra.up.pt/feup/pt/web_page.inicial" target="_blank">FEUP</a><br>
 - 🌱 I’m currently attending the Informatics and Computing Engineering course<br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/francisco-prada-566990222/" target="_blank">Francisco Prada</a><br>
