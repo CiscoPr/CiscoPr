@@ -26,4 +26,5 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiscoPr&hide=makefile,cmake&layout=compact&theme=dark&include_all_commits=true&count_private=true&show_icons=true" alt="CiscoPr"> 
 </p>
 
+### What i'm listening to: ###
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=48hrlvvr47v61hfndhed5yfg0&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=48hrlvvr47v61hfndhed5yfg0&redirect=true)
