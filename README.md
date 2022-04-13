@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently attending the Informatics and Computing Engineering course<br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/francisco-prada-566990222/" target="_blank">Francisco Prada</a><br>
 - 😄 Pronouns: he/him<br>
-- ⚡ Fun fact: i love watching anime and reading manga :)<br> 
+- ⚡ Fun fact: i love watching anime and reading manga :)<br>
+<br>
 <p align = "center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CiscoPr&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="CiscoPr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiscoPr&hide=makefile,cmake&layout=compact&theme=dark&include_all_commits=true&count_private=true&show_icons=true" alt="CiscoPr"> 
