@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 <p align = "center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CiscoPr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="CiscoPr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiscoPr&layout=compact&langs_count=1&theme=dracula&include_all_commits=true&count_private=true" alt="CiscoPr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiscoPr&hide=makefile,cmake&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&count_private=true" alt="CiscoPr">
   
 </p>
