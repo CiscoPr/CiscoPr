@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=CiscoPr&show_icons=true" alt="CiscoPr">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiscoPr&layout=compact" alt="CiscoPr">
 </p>
