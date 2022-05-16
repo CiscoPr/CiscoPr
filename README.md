@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align = "center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CiscoPr&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="CiscoPr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiscoPr&hide=makefile,cmake&layout=compact&theme=dark&include_all_commits=true&count_private=true&show_icons=true" alt="CiscoPr"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiscoPr&hide=makefile,cmake,tex&layout=compact&theme=dark&include_all_commits=true&count_private=true&show_icons=true" alt="CiscoPr"> 
 </p>
 
 ### What i'm listening to: ###
