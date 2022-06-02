@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 </p>
 
 ### What i'm listening to: ###
-<p align= "center">
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=48hrlvvr47v61hfndhed5yfg0&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=48hrlvvr47v61hfndhed5yfg0&redirect=true)
-</p>
+
