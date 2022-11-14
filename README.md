@@ -11,10 +11,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ciscopr&label=Profile%20views&color=0e75b6&style=flat" alt="ciscopr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ciscopr" alt="ciscopr" /></a> </p>
-
 
 ### Hi there, I am Francisco Prada👋 ###
 - 🔭 I’m currently studying on <a href="https://sigarra.up.pt/feup/pt/web_page.inicial" target="_blank">FEUP</a><br>
@@ -31,6 +27,11 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CiscoPr&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="CiscoPr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiscoPr&hide=makefile,cmake,tex&layout=compact&theme=dark&include_all_commits=true&count_private=true&show_icons=true" alt="CiscoPr"> 
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CiscoPr&label=Profile%20views&color=0e75b6&style=flat" alt="CiscoPr" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CiscoPr" alt="CiscoPr" /></a> </p>
+
 
 ### What i'm listening to: ###
 
