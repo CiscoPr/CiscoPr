@@ -10,6 +10,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ciscopr&label=Profile%20views&color=0e75b6&style=flat" alt="ciscopr" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ciscopr" alt="ciscopr" /></a> </p>
+
+
 ### Hi there, I am Francisco Prada👋 ###
 - 🔭 I’m currently studying on <a href="https://sigarra.up.pt/feup/pt/web_page.inicial" target="_blank">FEUP</a><br>
 - 🌱 I’m currently attending the Informatics and Computing Engineering course<br>
