@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CiscoPr" alt="CiscoPr" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CiscoPr&" alt="CiscoPr" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CiscoPr&" alt="CiscoPr" /></p>
 
 
 ### What i'm listening to: ###
