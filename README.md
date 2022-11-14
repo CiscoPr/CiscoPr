@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CiscoPr&label=Profile%20views&color=0e75b6&style=flat" alt="CiscoPr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CiscoPr" alt="CiscoPr" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CiscoPr" alt="CiscoPr" /></a> </p>
 
 
 ### What i'm listening to: ###
