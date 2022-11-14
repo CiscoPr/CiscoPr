@@ -12,7 +12,10 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there, I am Francisco Prada👋 ###
+<h3 align="center"> Hi there, I am Francisco Prada👋 </h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CiscoPr&label=Profile%20views&color=0e75b6&style=flat" alt="CiscoPr" /> </p>
+
 - 🔭 I’m currently studying on <a href="https://sigarra.up.pt/feup/pt/web_page.inicial" target="_blank">FEUP</a><br>
 - 🌱 I’m currently attending the Informatics and Computing Engineering course<br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/francisco-prada-566990222/" target="_blank">Francisco Prada</a><br>
@@ -28,7 +31,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiscoPr&hide=makefile,cmake,tex&layout=compact&theme=dark&include_all_commits=true&count_private=true&show_icons=true" alt="CiscoPr"> 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CiscoPr&label=Profile%20views&color=0e75b6&style=flat" alt="CiscoPr" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CiscoPr" alt="CiscoPr" /></a> </p>
 
