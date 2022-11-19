@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=CiscoPr&theme=dark" alt="CiscoPr" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=CiscoPr" alt="CiscoPr" /></a> </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CiscoPr&theme=dark" alt="CiscoPr" /></p>
 
