@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Hi there, I am Francisco Prada👋 </h1>
 
-<h3 align="center"> A student on the LEIC course at FEUP </h3>
+<h3 align="center"> A student on the MEIC course at FEUP </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CiscoPr&label=Profile%20views&color=0e75b6&style=flat" alt="CiscoPr" /> </p>
 
 - 🔭 I’m currently studying on <a href="https://sigarra.up.pt/feup/pt/web_page.inicial" target="_blank">FEUP</a><br>
