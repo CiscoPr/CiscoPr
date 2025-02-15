@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CiscoPr&theme=dark" alt="CiscoPr" /></p>
 
 <p align="center">
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=48hrlvvr47v61hfndhed5yfg0&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=48hrlvvr47v61hfndhed5yfg0&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
+
