@@ -29,4 +29,3 @@ Here are some ideas to get you started:
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CiscoPr&theme=dark" alt="CiscoPr" /></p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/CiscoPr/blob/output/github-contribution-grid-snake.svg)
