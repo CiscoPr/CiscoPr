@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CiscoPr&theme=dark" alt="CiscoPr" /></p>
 
 <p align="center">
-
-<h3 align="left">My TryHackMe:</h3>
+<h3 align="left">My TryHackMe</h3>
+<p align="center">
+  <a href="https://tryhackme.com/p/ciscool02">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ciscool02.png" alt="TryHackMe Badge"/>
+  </a>
+</p>
 
