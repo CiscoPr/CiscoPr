@@ -11,9 +11,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Hi there, I am Francisco Prada👋 </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&letterSpacing=1px&duration=3500&pause=1500&color=741AF7&width=800&height=100&lines=%F0%9F%91%8BHowdy%2C+I'm+Francisco+Prada;A+student+on+the+MEIC+course+at+FEUP;How+you+doing%3F)](https://git.io/typing-svg)
 
-<h3 align="center"> A student on the MEIC course at FEUP </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CiscoPr&label=Profile%20views&color=0e75b6&style=flat" alt="CiscoPr" /> </p>
 
 - 🔭 I’m currently studying on <a href="https://sigarra.up.pt/feup/pt/web_page.inicial" target="_blank">FEUP</a><br>
