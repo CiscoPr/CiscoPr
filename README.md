@@ -30,4 +30,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CiscoPr&theme=dark" alt="CiscoPr" /></p>
 
-[![ciscool02's tryhackme stats](https://raw.githubusercontent.com/CiscoPr/CiscoPr/master/assets/thm_propic.png)][tryhackme]
+<h3 align="Left"> My TryHackMe</h3>
+<p a align="center">
+<a href="https://tryhackme.com/p/ciscool02"><img src="https://tryhackme-badges.s3.amazonaws.com/ciscool02.png" alt="Your Image Badge" /></a>
+</p>
