@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 <h3 align="left">My TryHackMe</h3>
 <p align="center">
   <a href="https://tryhackme.com/p/ciscool02">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/ciscool02.png" alt="Your Image Badge" />
   </a>
 </p>
 
