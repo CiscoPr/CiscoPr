@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CiscoPr&label=Profile%20views&color=0e75b6&style=flat" alt="CiscoPr" /> </p>
 
-- 🔭 I’m currently studying on <a href="https://sigarra.up.pt/feup/pt/web_page.inicial" target="_blank">FEUP</a><br>
-- 🌱 I’m currently attending the Informatics and Computing Engineering course<br>
+- 🔭 I'm an Alumni who studied on <a href="https://sigarra.up.pt/feup/pt/web_page.inicial" target="_blank">FEUP</a><br>
+- 🌱 I finished in 2025 the Informatics and Computing Engineering course<br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/francisco-prada-566990222/" target="_blank">Francisco Prada</a><br>
 - 😄 Pronouns: he/him<br>
 - ⚡ Fun fact: i love watching anime and reading manga :)<br>
